@@ -1,5 +1,11 @@
-# Simple Progressive Web Application
+# React Simple Progressive Web Application
 
-In the project directory, you can run:
+Consume [weather api](https://openweathermap.org/api) and simple display weather information when user type based on location.
 
-### `yarn start`
+In the project directory, you can:
+
+## Setup
+`$ yarn install`
+
+## Run
+`$ yarn start` and go to [http://localhost:3000](http://localhost:3000)
