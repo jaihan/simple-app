@@ -1,6 +1,6 @@
 # React Simple Progressive Web Application
 
-Consume [weather api](https://openweathermap.org/api) and simple display weather information when user type based on location.
+Consume [weather api](https://openweathermap.org/api) and simple display weather information when user type based on location. It is implemented based on [Progressive Web App](https://web.dev/progressive-web-apps/) and [React](https://reactjs.org/)
 
 In the project directory, you can:
 
